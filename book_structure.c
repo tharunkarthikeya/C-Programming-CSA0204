@@ -30,7 +30,7 @@ int main(void)
     if (scanf("%d", &book.pages) != 1)
         return 0;
 
-    printf("Enter price: ");
+    printf("Enter the price: ");
     if (scanf("%f", &book.price) != 1)
         return 0;
 
