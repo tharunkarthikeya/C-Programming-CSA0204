@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     double a, b;
     printf("Enter two numbers: ");
